@@ -4,3 +4,4 @@
 ### 3. [Working with Shapes](shapes.py)
 ### 4. [Stack Images](ImageStack.py)
 ### 5. [Warp Images](ImageWarp.py)
+### 6. [Color Detection](ColorDetection.py)
